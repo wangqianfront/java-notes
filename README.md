@@ -3,23 +3,15 @@ java-notes
 
 ### JVM (Java Virtual Machine)
 
-`Sun Classic`
-
-`Exact VM`
-
-`HotSpot`
-
-`JRockit`
-
-`J9`
-
-`Harmony`
-
-`Azul VM`
-
-`Zulu`
-
-`BEA Liquid VM`
++ `Sun Classic`
++ `Exact VM`
++ `HotSpot`
++ `JRockit`
++ `J9`
++ `Harmony`
++ `Azul VM`
++ `Zulu`
++ `BEA Liquid VM`
 
 http://rednaxelafx.iteye.com/blog/362738
 
