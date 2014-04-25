@@ -30,7 +30,7 @@ jar cf my.jar @classes.list
 jstat -J-Djstat.showUnsupported=true -snap <pid>
 
 -XX:+UnlockDiagnosticVMOptions -XX:+LogCompilation
->>> `hotspot.log`
+\>\>\> `hotspot.log`
 
 http://jinwoohwang.com/index.html
 
@@ -49,6 +49,6 @@ http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf
 
 ### 参考书籍
 
-《深入Java虚拟机(原书第2版)》 	http://book.douban.com/subject/1138768/
-《深入理解Java虚拟机》 	http://book.douban.com/subject/6522893/
-《Effective Java 第二版 中文版》 	http://book.douban.com/subject/3360807/
+- 《深入Java虚拟机(原书第2版)》 	http://book.douban.com/subject/1138768/
+- 《深入理解Java虚拟机》 	http://book.douban.com/subject/6522893/
+- 《Effective Java 第二版 中文版》 	http://book.douban.com/subject/3360807/
