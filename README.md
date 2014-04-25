@@ -3,15 +3,15 @@ java-notes
 
 ### JVM (Java Virtual Machine)
 
->Sun Classic
->Exact VM
->HotSpot
->JRockit
->J9
->Harmony
->Azul VM
->Zulu
->BEA Liquid VM
+`Sun Classic`
+`Exact VM`
+`HotSpot`
+`JRockit`
+`J9`
+`Harmony`
+`Azul VM`
+`Zulu`
+`BEA Liquid VM`
 
 http://rednaxelafx.iteye.com/blog/362738
 
@@ -30,24 +30,22 @@ jar cf my.jar @classes.list
 jstat -J-Djstat.showUnsupported=true -snap <pid>
 
 -XX:+UnlockDiagnosticVMOptions -XX:+LogCompilation
->>> hotspot.log
+>>> `hotspot.log`
 
 http://jinwoohwang.com/index.html
 
 虚拟JUG：http://www.youtube.com/user/virtualJUG?feature=watch
 
 ### Java Performance
-
-    http://www.javaperformancetuning.com/ 
+http://www.javaperformancetuning.com/ 
 
 - Java不慢
 - 反射不慢
 - 异常不慢 
 
 ### Java Concurrent
-
-    http://sourceforge.net/projects/javaconcurrenta/
-    http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf 
+http://sourceforge.net/projects/javaconcurrenta/
+http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf 
 
 ### 参考书籍
 
