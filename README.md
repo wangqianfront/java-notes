@@ -4,13 +4,21 @@ java-notes
 ### JVM (Java Virtual Machine)
 
 `Sun Classic`
+
 `Exact VM`
+
 `HotSpot`
+
 `JRockit`
+
 `J9`
+
 `Harmony`
+
 `Azul VM`
+
 `Zulu`
+
 `BEA Liquid VM`
 
 http://rednaxelafx.iteye.com/blog/362738
@@ -44,8 +52,8 @@ http://www.javaperformancetuning.com/
 - 异常不慢 
 
 ### Java Concurrent
-http://sourceforge.net/projects/javaconcurrenta/
-http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf 
+1. http://sourceforge.net/projects/javaconcurrenta/
+2. http://gee.cs.oswego.edu/dl/concurrency-interest/jsr166-slides.pdf 
 
 ### 参考书籍
 
